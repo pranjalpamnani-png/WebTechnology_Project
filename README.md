@@ -158,4 +158,3 @@ Frontend runs on: `http://localhost:5173`
 - 404 Not Found page
 ```
 
-Copy this, paste it into your `README.md` file in the repo and push it! Good luck tomorrow! 🎓
